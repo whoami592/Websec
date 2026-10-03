@@ -29,8 +29,8 @@ WebSec Ruby is a lightweight, defensive auditing toolkit for checking common web
 ## Installation
 
 ```bash
-git clone <your-repository-url>
-cd ruby-websec
+git clone https://github.com/whoami592/Websec.git
+cd websec
 bundle install
 chmod +x bin/websec
 ```
