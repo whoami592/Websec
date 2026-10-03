@@ -1,0 +1,7 @@
+/.bundle/
+/vendor/bundle/
+/reports/*.json
+/reports/*.html
+/reports/*.txt
+*.gem
+.DS_Store
